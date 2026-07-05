@@ -56,8 +56,7 @@ This project analyses a retail sales dataset using SQL to uncover revenue trends
 14. For each year, which month has the highest average transaction value or total revenue (using window functions)?
 15. How can all customers be ranked by total spend, showing their rank, total amount, and number of transactions?
 16. For each product category, what is the average quantity per transaction, and which categories tend to have larger baskets?
-17. For each customer, what is the time difference between their first and last transaction, and which customers have the longest active period?
-
+    
 ---
 
 ## Repository structure
