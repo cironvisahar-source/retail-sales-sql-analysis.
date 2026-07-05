@@ -31,7 +31,7 @@ This project analyses a retail sales dataset using SQL to uncover revenue trends
 
 ### 1. Revenue analysis
 
-1. What is the total revenue and total quantity sold across all transactions?
+1. What is the total revenue, total quantity and total transactions?
 2. For each product category, what is the total revenue and number of transactions?
 3. What is the overall average transaction value (total amount per transaction)?
 4. For each month, what is the total revenue and how many transactions occurred?
