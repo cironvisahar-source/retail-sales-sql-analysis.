@@ -43,21 +43,20 @@ This project analyses a retail sales dataset using SQL to uncover revenue trends
 7. How does total revenue and number of transactions differ by customer gender?
 8. What is the average age of customers who purchase each product category?
 9. If age bands are defined (e.g. `<25`, `25–34`, `35–44`, `45+`), what is the total revenue and number of transactions for each age band?
-10. How many customers made more than one transaction, and what percentage of total revenue comes from repeat customers versus one‑time customers?
 
 ### 3. Time‑based patterns
 
-11. Which day of the week and which month have the highest total revenue?
-12. Which months show above‑average revenue and which show below‑average revenue compared to the overall mean?
-13. How many transactions have total amount above a chosen threshold (e.g. > 500), and what percentage of total revenue do they represent?
+10. Which day of the week and which month have the highest total revenue?
+11. Which months show above‑average revenue and which show below‑average revenue compared to the overall mean?
+12. How many transactions have total amount above a chosen threshold (e.g. > 500), and what percentage of total revenue do they represent?
 
 ### 4. Advanced SQL insights
 
-14. For each product category, who is the top customer by total spend (using window functions)?
-15. For each year, which month has the highest average transaction value or total revenue (using window functions)?
-16. How can all customers be ranked by total spend, showing their rank, total amount, and number of transactions?
-17. For each product category, what is the average quantity per transaction, and which categories tend to have larger baskets?
-18. For each customer, what is the time difference between their first and last transaction, and which customers have the longest active period?
+13. For each product category, who is the top customer by total spend (using window functions)?
+14. For each year, which month has the highest average transaction value or total revenue (using window functions)?
+15. How can all customers be ranked by total spend, showing their rank, total amount, and number of transactions?
+16. For each product category, what is the average quantity per transaction, and which categories tend to have larger baskets?
+17. For each customer, what is the time difference between their first and last transaction, and which customers have the longest active period?
 
 ---
 
