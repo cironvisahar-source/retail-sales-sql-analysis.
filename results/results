@@ -1,0 +1,25 @@
+## Results & insights
+
+### Revenue analysis
+
+- Total revenue: 456000 across 1000 transactions.
+- The top product categories by revenue are Electronics, Clothing, and Beauty. 
+- Average transaction value is 456, indicating a typical spend per order.
+
+### Customer & demographic insights
+
+- The top 5 customers by total spend contribute 0.44% of total revenue.
+- Female customers accounts for the highest share of revenue.
+- Customers aged 10 to 19 generate the most revenue per transaction.
+
+### Time-based patterns
+
+- Saturday is the strongest day for revenue, while Thursday is the weakest.
+- May has the highest total revenue; September is below the overall average.
+- High-value transactions (e.g. > 500) make up 29.90% of all transactions but 79.74% of total revenue.
+
+### Advanced SQL insights
+
+- For each product category, the top customer by spend are CUST503 for Beauty, CUST476 for Clothing, CUST742 for Electronics.
+- In 2023, May has the highest total revenue or average transaction value. We only have data for January 2024 and so we do not have enough to find the month with highest total spend or average transaction cost. 
+- Basket size (average quantity per transaction) is largest in Clothing and smallest in Electronics.
