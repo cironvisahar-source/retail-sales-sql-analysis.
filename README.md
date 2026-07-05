@@ -39,16 +39,16 @@ This project analyses a retail sales dataset using SQL to uncover revenue trends
 
 ### 2. Customer and demographic insights
 
-6. Which 5 customers have the highest total spend, and what is their total amount and transaction count?
+6. Who are the top 5 customer by total spending and what percentage of revenue do they contribute?
 7. How does total revenue and number of transactions differ by customer gender?
 8. What is the average age of customers who purchase each product category?
-9. If age bands are defined (e.g. `<25`, `25–34`, `35–44`, `45+`), what is the total revenue and number of transactions for each age band?
+9. If age bands are defined (e.g. `<25`, `25–34`, `35–44`, `45+`), what is the the total revenue, number of transactions and revenue per transaction for each age band?
 
 ### 3. Time‑based patterns
 
-10. Which day of the week and which month have the highest total revenue?
+10. Which day of the week and which month have the highest and lowest total revenue?
 11. Which months show above‑average revenue and which show below‑average revenue compared to the overall mean?
-12. How many transactions have total amount above a chosen threshold (e.g. > 500), and what percentage of total revenue do they represent?
+12. How many transactions have total amount above a chosen threshold (e.g. > 500), and what percentage of transactions and percentage of total revenue do they represent?
 
 ### 4. Advanced SQL insights
 
